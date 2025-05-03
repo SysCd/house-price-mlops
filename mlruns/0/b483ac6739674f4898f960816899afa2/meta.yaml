@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/erik/house-price-mlops/mlruns/0/b483ac6739674f4898f960816899afa2/artifacts
+end_time: 1746298873931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b483ac6739674f4898f960816899afa2
+run_name: glamorous-bass-435
+run_uuid: b483ac6739674f4898f960816899afa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746298873926
+status: 4
+tags: []
+user_id: erik
