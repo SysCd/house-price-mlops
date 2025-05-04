@@ -7,7 +7,7 @@ app = Flask(__name__)
 logging.basicConfig(filename='model.log', level=logging.INFO)
 
 # Replace with your MLflow run ID or model path
-model = mlflow.sklearn.load_model("runs:/<your-run-id>/model")  # Update after running train_model.py
+model = mlflow.sklearn.load_model("runs:/1124e3bd1e0b4c4287c2e028a359c3c6/model")  # Update after running train_model.py
 
 @app.route('/predict', methods=['POST'])
 def predict():
