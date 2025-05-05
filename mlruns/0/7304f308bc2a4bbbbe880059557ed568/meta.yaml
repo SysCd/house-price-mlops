@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/erik/house-price-mlops/mlruns/0/7304f308bc2a4bbbbe880059557ed568/artifacts
+deleted_time: 1746385310388
 end_time: 1746298898415
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7304f308bc2a4bbbbe880059557ed568
 run_name: receptive-shark-296
 run_uuid: 7304f308bc2a4bbbbe880059557ed568

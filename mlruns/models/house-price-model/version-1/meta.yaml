@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746388359144
+current_stage: None
+description: ''
+last_updated_timestamp: 1746388359144
+name: house-price-model
+run_id: 1124e3bd1e0b4c4287c2e028a359c3c6
+run_link: ''
+source: file:///Users/erik/house-price-mlops/mlruns/0/1124e3bd1e0b4c4287c2e028a359c3c6/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/erik/house-price-mlops/mlruns/0/1124e3bd1e0b4c4287c2e028a359c3c6/artifacts/model
+user_id: null
+version: 1

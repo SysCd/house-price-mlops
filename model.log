@@ -1,0 +1,59 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.158:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/May/2025 20:10:08] "[33mGET /ajax-api/2.0/mlflow/model-versions/search?filter=run_id%3D'1124e3bd1e0b4c4287c2e028a359c3c6' HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/May/2025 20:10:59] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [04/May/2025 20:10:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/May/2025 20:11:07] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/May/2025 20:11:08] "[33mGET /ajax-api/2.0/mlflow/model-versions/search?filter=run_id%3D'1124e3bd1e0b4c4287c2e028a359c3c6' HTTP/1.1[0m" 404 -
+INFO:root:Prediction: 4.151938398277544 for input: {'MedInc': 8.3252, 'HouseAge': 41.0, 'AveRooms': 6.9841, 'AveBedrms': 1.0238, 'Population': 322.0, 'AveOccup': 2.5556, 'Latitude': 37.88, 'Longitude': -122.23}
+INFO:werkzeug:127.0.0.1 - - [04/May/2025 20:12:08] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/May/2025 20:12:08] "[33mGET /ajax-api/2.0/mlflow/model-versions/search?filter=run_id%3D'1124e3bd1e0b4c4287c2e028a359c3c6' HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/May/2025 20:13:08] "[33mGET /ajax-api/2.0/mlflow/model-versions/search?filter=run_id%3D'1124e3bd1e0b4c4287c2e028a359c3c6' HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/May/2025 20:13:25] "[33mGET /ajax-api/2.0/mlflow/model-versions/search?filter=run_id%3D'1124e3bd1e0b4c4287c2e028a359c3c6' HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/May/2025 20:13:27] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/May/2025 20:13:28] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.158:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.158:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/May/2025 23:04:23] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/May/2025 23:04:24] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/May/2025 23:04:32] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.158:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.158:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.158:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.158:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [05/May/2025 14:30:29] "[33mPOST /ajax-api/2.0/mlflow/runs/search HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/May/2025 14:30:36] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.158:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Prediction: 4.151938398277544 for input: {'MedInc': 8.3252, 'HouseAge': 41.0, 'AveRooms': 6.9841, 'AveBedrms': 1.0238, 'Population': 322.0, 'AveOccup': 2.5556, 'Latitude': 37.88, 'Longitude': -122.23}
+INFO:werkzeug:127.0.0.1 - - [05/May/2025 15:38:53] "POST /predict HTTP/1.1" 200 -

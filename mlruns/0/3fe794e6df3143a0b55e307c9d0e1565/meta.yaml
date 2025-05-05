@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/erik/house-price-mlops/mlruns/0/3fe794e6df3143a0b55e307c9d0e1565/artifacts
+deleted_time: 1746385310388
+end_time: 1746300110134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3fe794e6df3143a0b55e307c9d0e1565
+run_name: marvelous-squid-944
+run_uuid: 3fe794e6df3143a0b55e307c9d0e1565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746300108860
+status: 3
+tags: []
+user_id: erik

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/erik/house-price-mlops/mlruns/0/b483ac6739674f4898f960816899afa2/artifacts
+deleted_time: 1746385310388
 end_time: 1746298873931
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b483ac6739674f4898f960816899afa2
 run_name: glamorous-bass-435
 run_uuid: b483ac6739674f4898f960816899afa2
