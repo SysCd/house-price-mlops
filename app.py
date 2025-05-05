@@ -5,9 +5,8 @@ import logging
 
 app = Flask(__name__)
 logging.basicConfig(filename='model.log', level=logging.INFO)
+model = mlflow.sklearn.load_model("models:/house-price-model/1")
 
-# Replace with your MLflow run ID or model path
-model = mlflow.sklearn.load_model("runs:/1124e3bd1e0b4c4287c2e028a359c3c6/model")  # Update after running train_model.py
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -22,6 +21,6 @@ def predict():
         return jsonify({'error': str(e)}), 400
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5001)
     
     
